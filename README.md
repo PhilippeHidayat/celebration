@@ -34,7 +34,7 @@ This is a simple Express.js application set up using TypeScript following the MV
     ]
 }
 }
-```
+``` 
 
 ###Delete a user
 
